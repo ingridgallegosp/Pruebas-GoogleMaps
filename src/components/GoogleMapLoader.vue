@@ -7,8 +7,8 @@
   </div>
 </template>
 
-<script setup>
-import GoogleMapsApiLoader from "google-maps-api-loader";
+<script>
+import GoogleMapsApiLoader from "google-maps-api-loader"; //para que funcione falta acceder a la API y las credenciales
 
 export default {
   props: {

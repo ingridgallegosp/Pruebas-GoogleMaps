@@ -7,7 +7,7 @@
   </GoogleMapLoader>
 </template>
 
-<script setup>
+<script>
 import GoogleMapLoader from "./GoogleMapLoader.vue";
 //import { mapSettings } from "./constants/mapSettings";
 
